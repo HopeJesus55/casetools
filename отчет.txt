@@ -1,1 +1,50 @@
-1111111
+Репозиторий: casetools (https://github.com/HopeJesus55/casetools.git)
+Ветки: 
+*main:
+**README.md
+**ganttproj.gan
+**main.js 
+*hopjes-new-branch:
+**README.md
+**ganttproj.gan
+**main.js 
+Команды: 
+git clone https://github.com/HopeJesus55/casetools.git
+git --version
+git add .
+git commit
+git push
+git status
+git chechout -b hopjes-new-branch
+git chechout main
+git push -u origin hopjes-new-branch
+git diff main
+git log
+
+Список изменений:
+commit 014a9e841c023b7fcce7cd71f729dab1dfd417cf (HEAD -> main, origin/main, origin/HEAD)
+Merge: ecfad32 4e935e3
+Author: HopeJesus55 <86591767+HopeJesus55@users.noreply.github.com>
+Date:   Wed Oct 12 18:09:29 2022 +0300
+
+    Merge pull request #1 from HopeJesus55/hopjes-new-branch
+
+    Added Gantt Diagram
+
+commit 4e935e3f0ddac2905f3558c1b36afdc7f7cc9c5e (tag: v1.0, origin/hopjes-new-branch, hopjes-new-branch)
+Author: HopeJesus55 <hopejesus55@gmail.com>
+Date:   Wed Oct 12 17:59:21 2022 +0300
+
+    Added Gantt Diagram
+
+commit ecfad32deb195c6bc6ab05e7ebccaee3e028504d
+Author: HopeJesus55 <hopejesus55@gmail.com>
+Date:   Wed Oct 12 17:42:06 2022 +0300
+
+    Added second labwork
+
+    Using VSCode
+
+commit 9f496d924e49005dcaad54d31f20d932ccd36afe
+Author: HopeJesus55 <86591767+HopeJesus55@users.noreply.github.com>
+Date:   Wed Oct 12 14:37:09 2022 +0300
